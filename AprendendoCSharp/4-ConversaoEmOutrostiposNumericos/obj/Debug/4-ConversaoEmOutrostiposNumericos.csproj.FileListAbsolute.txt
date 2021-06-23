@@ -1,0 +1,7 @@
+D:\C#\AprendendoCSharp\4-ConversaoEmOutrostiposNumericos\bin\Debug\4-ConversaoEmOutrostiposNumericos.exe.config
+D:\C#\AprendendoCSharp\4-ConversaoEmOutrostiposNumericos\bin\Debug\4-ConversaoEmOutrostiposNumericos.exe
+D:\C#\AprendendoCSharp\4-ConversaoEmOutrostiposNumericos\bin\Debug\4-ConversaoEmOutrostiposNumericos.pdb
+D:\C#\AprendendoCSharp\4-ConversaoEmOutrostiposNumericos\obj\Debug\4-ConversaoEmOutrostiposNumericos.csproj.AssemblyReference.cache
+D:\C#\AprendendoCSharp\4-ConversaoEmOutrostiposNumericos\obj\Debug\4-ConversaoEmOutrostiposNumericos.csproj.CoreCompileInputs.cache
+D:\C#\AprendendoCSharp\4-ConversaoEmOutrostiposNumericos\obj\Debug\4-ConversaoEmOutrostiposNumericos.exe
+D:\C#\AprendendoCSharp\4-ConversaoEmOutrostiposNumericos\obj\Debug\4-ConversaoEmOutrostiposNumericos.pdb
