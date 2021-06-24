@@ -1,0 +1,7 @@
+D:\C#\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+D:\C#\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe
+D:\C#\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.pdb
+D:\C#\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.AssemblyReference.cache
+D:\C#\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+D:\C#\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.exe
+D:\C#\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.pdb
